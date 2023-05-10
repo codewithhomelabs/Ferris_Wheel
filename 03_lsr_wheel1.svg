@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 566.92912 566.92914"
+   width="150mm"
+   height="150mm"
+   version="1.1"
+   id="svg4093"
+   sodipodi:docname="03_lsr_wheel1.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4095"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.70199216"
+     inkscape:cx="397.44033"
+     inkscape:cy="334.04931"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g4091"
+     inkscape:document-units="mm" />
+  <desc
+     id="desc4051">05_lsr_wheel.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = manual</desc>
+  <defs
+     id="defs4065">
+    <marker
+       id="DistanceX"
+       orient="auto"
+       refX="0"
+       refY="0"
+       style="overflow:visible">
+      <path
+         d="M 3,-3 -3,3 M 0,-5 V 5"
+         style="stroke:#000000;stroke-width:0.5"
+         id="path4053" />
+    </marker>
+    <pattern
+       id="Hatch"
+       patternUnits="userSpaceOnUse"
+       width="8"
+       height="8"
+       x="0"
+       y="0">
+      <path
+         d="M8 4 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4056" />
+      <path
+         d="M6 2 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4058" />
+      <path
+         d="M4 0 l-4,4"
+         stroke="#000000"
+         stroke-width="0.25"
+         linecap="square"
+         id="path4060" />
+    </pattern>
+    <symbol
+       id="*MODEL_SPACE" />
+    <symbol
+       id="*PAPER_SPACE" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g4091">
+    <path
+       d="M 426.02973,241.87932 A 151.1811,151.1811 0 0 0 319.12855,134.97814 l -19.56428,73.01487 a 75.590551,75.590551 0 0 1 53.4506,53.45059 z"
+       style="fill:none;stroke:#000000"
+       id="path4067" />
+    <path
+       d="m 454.43,375.49606 a 10.771655,10.771655 0 0 0 -21.54331,0 10.771655,10.771655 0 0 0 21.54331,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4069" />
+    <path
+       d="m 133.97027,241.87932 73.01486,19.56428 a 75.590551,75.590551 0 0 1 53.4506,-53.45059 L 240.87145,134.97814 A 151.1811,151.1811 0 0 0 133.97027,241.87932 Z"
+       style="fill:none;stroke:#000000"
+       id="path4071" />
+    <path
+       d="M 319.12855,427.0376 A 151.1811,151.1811 0 0 0 426.02973,320.13642 l -73.01486,-19.56427 a 75.590551,75.590551 0 0 1 -53.4506,53.45059 z"
+       style="fill:none;stroke:#000000"
+       id="path4073" />
+    <path
+       d="m 454.43,186.51968 a 10.771655,10.771655 0 0 0 -21.54331,0 10.771655,10.771655 0 0 0 21.54331,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4075" />
+    <path
+       d="m 290.77165,92.0315 a 10.771654,10.771654 0 0 0 -21.5433,0 10.771654,10.771654 0 0 0 21.5433,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4077" />
+    <path
+       d="m 290.77165,469.98425 a 10.771654,10.771654 0 0 0 -21.5433,0 10.771654,10.771654 0 0 0 21.5433,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4079" />
+    <path
+       d="m 127.11331,375.49606 a 10.771655,10.771655 0 0 0 -21.54331,0 10.771655,10.771655 0 0 0 21.54331,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4081" />
+    <path
+       d="m 127.11331,186.51968 a 10.771655,10.771655 0 0 0 -21.54331,0 10.771655,10.771655 0 0 0 21.54331,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4083" />
+    <path
+       d="m 310.04724,281.00787 a 30.047244,30.047244 0 0 0 -60.09448,0 30.047244,30.047244 0 0 0 60.09448,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4085" />
+    <path
+       d="M 133.97027,320.13642 A 151.1811,151.1811 0 0 0 240.87145,427.0376 l 19.56428,-73.01486 a 75.590551,75.590551 0 0 1 -53.4506,-53.45059 z"
+       style="fill:none;stroke:#000000"
+       id="path4087" />
+    <path
+       d="m 506.77165,281.00787 a 226.77165,226.77165 0 0 0 -453.5433,0 226.77165,226.77165 0 0 0 453.5433,0 z"
+       style="fill:none;stroke:#000000"
+       id="path4089" />
+  </g>
+</svg>
